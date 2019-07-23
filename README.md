@@ -18,7 +18,7 @@ installed:
 
 Next, clone this repository:
 
-    $ git clone https://github.com/waveform80/pistreaming.git
+    $ git clone https://github.com/wbaiyu/baiyu.git
 
 
 ## Usage
@@ -38,7 +38,7 @@ to the console as it starts up:
     Starting broadcast thread
 
 Now fire up your favourite web-browser and visit the address
-`http://pi-address:8082/` - it should fairly quickly start displaying the feed
+`http://pi-address:8888/` - it should fairly quickly start displaying the feed
 from the camera. You should be able to visit the URL from multiple browsers
 simultaneously (although obviously you'll saturate the Pi's bandwidth sooner or
 later).
