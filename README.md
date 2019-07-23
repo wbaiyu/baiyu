@@ -29,7 +29,7 @@ to the console as it starts up:
     $ cd pistreaming
     $ python3 server.py
     Initializing websockets server on port 8084
-    Initializing HTTP server on port 8082
+    Initializing HTTP server on port 8888
     Initializing camera
     Initializing broadcast thread
     Spawning background conversion process
