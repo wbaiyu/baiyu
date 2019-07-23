@@ -26,7 +26,7 @@ from ws4py.server.wsgiutils import WebSocketWSGIApplication
 WIDTH = 640
 HEIGHT = 480
 FRAMERATE = 24
-HTTP_PORT = 8082
+HTTP_PORT = 8888
 WS_PORT = 8084
 COLOR = u'#444'
 BGCOLOR = u'#333'
