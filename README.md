@@ -26,7 +26,7 @@ Next, clone this repository:
 Run the Python server script which should print out a load of stuff
 to the console as it starts up:
 
-    $ cd pistreaming
+    $ cd baiyu
     $ python3 server.py
     Initializing websockets server on port 8084
     Initializing HTTP server on port 8888
